@@ -1,4 +1,4 @@
-# eesier-com
+# eesier
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eesier-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://eesier.com/
+eesier provides an autonomous B2B sales agent called the blue button that finds leads matching your ideal customer profile, reaches out across email, WhatsApp, and voice in a single AI-driven conversation, qualifies and nurtures each lead, and notifies you when someone wants a meeting — all without a sales team. The platform aims to simplify customer acquisition for businesses of any size, offering a seamless, automated outreach experience.
+
+**Areas:** B2B · SalesAutomation · AI · LeadGeneration · Marketing
+
+## eesier on APIs.io
+
+Everything profiled for eesier is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/eesier-com/](https://apis.io/providers/eesier-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [eesier API](https://apis.io/apis/eesier-com/eesier-api/) — eesier provides an autonomous B2B sales agent platform
+- [eesier API](https://apis.io/apis/eesier-com/eesier-com-api/) — eesier API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-11-06); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [GetRestV1CallToolnameResponse](https://apis.io/schemas/eesier-com/eesier-com-get-rest-v1-call-toolname-response/)
+- [GetRestV1ToolsResponse](https://apis.io/schemas/eesier-com/eesier-com-get-rest-v1-tools-response/)
+- [GetRestV1ToolsToolnameResponse](https://apis.io/schemas/eesier-com/eesier-com-get-rest-v1-tools-toolname-response/)
+- [PostRestV1ToolsToolnameRequest](https://apis.io/schemas/eesier-com/eesier-com-post-rest-v1-tools-toolname-request/)
+- [PostRestV1ToolsToolnameResponse](https://apis.io/schemas/eesier-com/eesier-com-post-rest-v1-tools-toolname-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Eesier Com Context](https://apis.io/jsonld/eesier-com/eesier-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [eesier API Rules](https://apis.io/rules/eesier-com/eesier-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Eesier Com Domain Security](https://apis.io/security/eesier-com/eesier-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://eesier.com/)
+- [Documentation](https://eesier.com/documentation)
+- [Getting started](https://eesier.com/get-started)
+- [Blog](https://eesier.com/blog)
+- [Terms of service](https://eesier.com/terms-and-conditions)
+- [Privacy policy](https://eesier.com/privacy)
+- [Status](https://eesier.com/status)
+
+## API Evangelist rating
+
+**Kin Score 42.7** — developing · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 53.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 38.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/eesier-com/](https://apis.io/providers/eesier-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for eesier: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/eesier-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
